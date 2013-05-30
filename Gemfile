@@ -27,7 +27,7 @@ gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
 
 #ugly gem for attr_accessible
-gem 'protected_attributes'
+#gem 'protected_attributes'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false
